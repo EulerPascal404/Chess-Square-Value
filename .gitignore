@@ -59,3 +59,5 @@ stockfish_15.1_win_x64_avx2/src/uci.cpp
 stockfish_15.1_win_x64_avx2/src/uci.h
 stockfish_15.1_win_x64_avx2/src/ucioption.cpp
 stockfish_15.1_win_x64_avx2/Top CPU Contributors.txt
+data/lichess_elite_2022-05.pgn
+data/loaded_games.csv
